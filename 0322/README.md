@@ -4,4 +4,5 @@ github 서버에서 index.html 이용하여 React 구동
 
 https://mainug.github.io/React/0322/build/
 
-![스크린샷 2024-03-22 162211](https://github.com/mainug/React/assets/48702167/01f9e288-bc86-4f06-845c-6c84063aba0c)
+![image](https://github.com/mainug/React/assets/48702167/a5773dbf-1e34-419d-8e25-d2893b9d3b99)
+
