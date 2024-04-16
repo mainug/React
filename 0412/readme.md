@@ -181,10 +181,11 @@ export default ProfilePictureUpload;
 
 ## 결과
 
-![Untitled](6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%200412%20e29aa1e57e694fa7a9c8679ae70cf466/Untitled.png)
+![Untitled](https://github.com/mainug/React/assets/48702167/12969777-7266-4b6a-9a1f-39098e69dec5)
+
 
 ### 이메일의 형식이 이상할 경우
 
-![Untitled](6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%200412%20e29aa1e57e694fa7a9c8679ae70cf466/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/React/assets/48702167/6d7bd8a6-ac52-43a4-9c25-b8094672754f)
 
-![Untitled](6%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%200412%20e29aa1e57e694fa7a9c8679ae70cf466/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/React/assets/48702167/f6667465-627b-4776-8aa0-3e5ee67dc45b)
