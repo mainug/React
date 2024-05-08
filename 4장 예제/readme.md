@@ -54,7 +54,8 @@ export default function Footer() { //내가 만든 컴포넌트 이름은 무조
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled.png)
+![Untitled](https://github.com/mainug/React/assets/48702167/7f28ed33-67ab-49f7-a7fe-9af1fc484ab7)
+
 
 ### Class Component
 
@@ -114,7 +115,8 @@ export default class Footer extends Component {
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/React/assets/48702167/6d345ec4-6e7d-4a1d-936e-2ed5e2dc47ac)
+
 
 ## Porps
 
@@ -158,7 +160,8 @@ export default Main;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/React/assets/48702167/5c33b266-e8b9-4509-805e-1e26dcfff525)
+
 
 ### 2개의 프로퍼티 넘기기
 
@@ -201,7 +204,8 @@ export default Main;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/React/assets/48702167/3e65888a-f007-4830-8bcc-bdd01f008d3d)
+
 
 ### 숫자 프로퍼티 넘기기
 
@@ -244,7 +248,8 @@ export default Main;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/React/assets/48702167/16f74e64-64bd-4ccd-8273-4182251c960e)
+
 
 ### 프로퍼티의 자료형, 타입정의
 
@@ -296,7 +301,8 @@ export default App;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/React/assets/48702167/05d1eaa1-48a2-43f7-8079-eeb9c2ee6976)
+
 
 ### 프로퍼티의 필수값 설정
 
@@ -371,7 +377,8 @@ export default App;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%206.png)
+![Untitled 6](https://github.com/mainug/React/assets/48702167/5ddf0e68-a433-47d7-9727-14fd2b2607fd)
+
 
 ### props.children 활용하기
 
@@ -413,7 +420,8 @@ export default App;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%207.png)
+![Untitled 7](https://github.com/mainug/React/assets/48702167/9732bac9-5ce3-488e-9fee-9f691e1e4571)
+
 
 App.js에서 여러개의 자식을 사용 가능
 
@@ -438,7 +446,8 @@ function App() {
 export default App;
 ```
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%208.png)
+![Untitled 8](https://github.com/mainug/React/assets/48702167/742e5f9d-2a46-4e9a-9767-044ae6f754ce)
+
 
 ### 이미지와 텍스트를 출력하는 콤퍼넌트
 
@@ -485,7 +494,8 @@ export default App;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%209.png)
+![Untitled 9](https://github.com/mainug/React/assets/48702167/b2c6d99f-bc6e-49ec-8e42-48216c7ad8cf)
+
 
 ### 리스트 컴포넌트
 
@@ -533,7 +543,8 @@ export default App;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%2010.png)
+![Untitled 10](https://github.com/mainug/React/assets/48702167/35ebce72-d905-41d9-a7db-2bd580b52741)
+
 
 ## Component
 
@@ -590,7 +601,8 @@ export default CommentList;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%2011.png)
+![Untitled 11](https://github.com/mainug/React/assets/48702167/5c494c29-a8da-49b4-841d-e93babe5f8b0)
+
 
 ### 스타일 입히기
 
@@ -652,7 +664,8 @@ export default Comment;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%2012.png)
+![Untitled 12](https://github.com/mainug/React/assets/48702167/80f98e2f-d6e1-40ac-95ef-afa5dd215a9c)
+
 
 ### props 추가하기
 
@@ -731,7 +744,8 @@ export default CommentList;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%2013.png)
+![Untitled 13](https://github.com/mainug/React/assets/48702167/717a43eb-8df7-437d-b7ea-94435f03391d)
+
 
 ### 컴포넌트 데이터 객체로 분리하기
 
@@ -769,4 +783,4 @@ export default CommentList;
 
 ### 결과
 
-![Untitled](4%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%20383105a4befa417db56777e0c5adb037/Untitled%2014.png)
+![Untitled 14](https://github.com/mainug/React/assets/48702167/39fea187-c7f9-4561-b612-4a27877cf458)
