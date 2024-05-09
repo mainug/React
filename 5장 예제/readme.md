@@ -35,7 +35,8 @@ export default Counter;
 
 결과
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled.png)
+![Untitled](https://github.com/mainug/React/assets/48702167/11baf3d7-a4d0-48d8-ad12-1109c13179b1)
+
 
 ### state를 사용하는 경우
 
@@ -69,7 +70,8 @@ export default Counter;
 
 결과
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%201.png)
+![Untitled 1](https://github.com/mainug/React/assets/48702167/ca76c2bf-8953-4c71-bebc-1def17179fc9)
+
 
 ## setState
 
@@ -108,7 +110,8 @@ export default Counter;
 
 결과
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%202.png)
+![Untitled 2](https://github.com/mainug/React/assets/48702167/4abe58fc-bd4e-4743-9171-7320a2090d93)
+
 
 현재 값은 15로 표기되어 있지만 콘솔의 마지막 log는 16으로 표기
 
@@ -144,7 +147,8 @@ export default function Counter() {
 
 결과
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%203.png)
+![Untitled 3](https://github.com/mainug/React/assets/48702167/3e4edf66-aa49-4567-902c-94aa219991ce)
+
 
 +1, +2, +3이 순차적으로 실행되지 않고 마지막 setNumber만 실행되어 log에는 명령어 개수만큼 표기되지만 실제 실행되는건 마지막 setNumber
 
@@ -176,7 +180,8 @@ export default function Counter() {
 
 onClick 내의 setNumber를 이런 식으로 바꾸고 실행
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%204.png)
+![Untitled 4](https://github.com/mainug/React/assets/48702167/34a81204-0bac-4261-a700-9fcfadcf6bf9)
+
 
 모든 setNumber가 실행된 모습
 
@@ -232,7 +237,8 @@ root.render(
 reportWebVitals();
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%205.png)
+![Untitled 5](https://github.com/mainug/React/assets/48702167/0cc1ec7d-40c7-4f00-a016-e41e752a4b6f)
+
 
 index.js
 
@@ -275,7 +281,8 @@ class Counter extends Component {
 export default Counter;
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%206.png)
+![Untitled 6](https://github.com/mainug/React/assets/48702167/6c4f8736-3e22-4983-b4ba-d52606f61e10)
+
 
 button 누르면 1씩 값 상승
 
@@ -316,9 +323,11 @@ const Area = () => {
 export default Area;
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%207.png)
+![Untitled 7](https://github.com/mainug/React/assets/48702167/48c049c6-a620-423f-8276-f08d2f09958e)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%208.png)
+
+![Untitled 8](https://github.com/mainug/React/assets/48702167/877bb0d8-90b6-4427-a338-8f779055e192)
+
 
 너비는 20, 높이는 10씩 증가되도록 설정
 
@@ -345,9 +354,11 @@ const Main = () => {
 export default Main;
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%209.png)
+![Untitled 9](https://github.com/mainug/React/assets/48702167/ed335490-d271-49c9-baa3-6760b3ef6b5a)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2010.png)
+
+![Untitled 10](https://github.com/mainug/React/assets/48702167/5c9280d5-6748-4882-966d-7be9dc7a85ae)
+
 
 Change를 누르면 이름의 앞 글자가 바뀜
 
@@ -383,9 +394,11 @@ Change를 누르면 이름의 앞 글자가 바뀜
 </html>
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2011.png)
+![Untitled 11](https://github.com/mainug/React/assets/48702167/7cfd20a6-a12b-43e9-9252-a2e5b47525e7)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2012.png)
+
+![Untitled 12](https://github.com/mainug/React/assets/48702167/132b0d17-6bcd-48e6-8ff3-2df064838290)
+
 
 ### 클릭했을 때 클래스의 메소드 호출
 
@@ -424,7 +437,8 @@ Change를 누르면 이름의 앞 글자가 바뀜
 </html>
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2013.png)
+![Untitled 13](https://github.com/mainug/React/assets/48702167/b0534854-a202-4049-86c5-fb442f1c4651)
+
 
 ### 간단한 체크박스 구현하기
 
@@ -485,9 +499,11 @@ Change를 누르면 이름의 앞 글자가 바뀜
 </html>
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2014.png)
+![Untitled 14](https://github.com/mainug/React/assets/48702167/ba9b972a-a077-4aa4-9824-a674717d72e4)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2015.png)
+
+![Untitled 15](https://github.com/mainug/React/assets/48702167/91607a3c-4dd0-4b72-b20b-db6960c89526)
+
 
 클릭하면 클릭한 객체만 체크박스가 색칠됨
 
@@ -595,9 +611,11 @@ css
     }
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2016.png)
+![Untitled 16](https://github.com/mainug/React/assets/48702167/228a7216-aa18-4280-82ad-f498637f9749)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2017.png)
+
+![Untitled 17](https://github.com/mainug/React/assets/48702167/d0f40d35-625e-45a3-b2bb-ec81ab5ed227)
+
 
 ### 간단한 입력 양식 만들기
 
@@ -635,9 +653,11 @@ export class SimpleForm extends React.Component {
 }
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2018.png)
+![Untitled 18](https://github.com/mainug/React/assets/48702167/486c265f-a4e1-455c-95d1-0b4d1c627ea7)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2019.png)
+
+![Untitled 19](https://github.com/mainug/React/assets/48702167/dc4b3afb-68d3-4ba6-84e6-b8c9c54d0a99)
+
 
 ### 숫자만 입력받는 텍스트박스 만들기
 
@@ -676,9 +696,11 @@ export default class NumberForm extends Component {
 }
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2020.png)
+![Untitled 20](https://github.com/mainug/React/assets/48702167/a745b6cb-f6bf-49e0-9032-d1254164a249)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2021.png)
+
+![Untitled 21](https://github.com/mainug/React/assets/48702167/426bf0b6-2a20-4c75-a1f7-6b2bec371d75)
+
 
 문자를 입력하면 입력되지 않음(입력한 숫자들이 지워짐)
 
@@ -769,6 +791,7 @@ export default class MultiForm extends Component {
 }
 ```
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2022.png)
+![Untitled 22](https://github.com/mainug/React/assets/48702167/c3449647-19bc-4cf6-b4cd-e7dd73431e12)
 
-![Untitled](5%E1%84%8C%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%A8%E1%84%8C%E1%85%A6%202feade6384e74e2aa892dc787778b472/Untitled%2023.png)
+
+![Untitled 23](https://github.com/mainug/React/assets/48702167/2cc56c9f-0d0a-4cfa-97e4-f1629fed9e43)
